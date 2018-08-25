@@ -2,9 +2,7 @@
 include 'bomtokped.php';
 
 /*
-    https://github.com/nee48/BomTelpSmsTokped
-    Made by Handika Pratama
-    Modified by まやちゃん
+    https://github.com/Valnam/tokoped
 */
 
 $init = new Bom();
