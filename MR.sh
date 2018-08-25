@@ -3,7 +3,7 @@ figlet -f bigmono9 "valSpam" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
 echo "\033[36;1m" "              mr.N"
-echo "\033[36;1m" "          	BOGOR"
+echo "\033[36;1m" "          	"
 echo "\033[35;1m #SCRIPT val#"
 echo "\033[34;1m" 
 "V.R"
@@ -76,10 +76,10 @@ if [ $ezz = 99 ]||[ $ezz = 9 ]
 then
 echo "semoga hari mu menyenangkan"
 sleep 1
-echo " INDONESIA MERDEKA "
+echo " WTF "
 echo " wasalam "
 sleep 1
-figlet -f bigmono9 "INDO" | lolcat
+figlet -f bigmono9 "FUCK YOU" | lolcat
 exit
 fi
 
