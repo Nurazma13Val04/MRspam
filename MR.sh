@@ -3,7 +3,7 @@ figlet -f bigmono9 "valSpam" | lolcat
 echo "\033[38;1m ------------------------------------------------------------------"|lolcat
 echo "\033[31;1m  "
 echo "\033[36;1m" "              mr.N"
-echo "\033[36;1m" "          	"
+echo "\033[36;1m" "         WTF 	"
 echo "\033[35;1m #SCRIPT val#"
 echo "\033[34;1m" 
 "V.R"
