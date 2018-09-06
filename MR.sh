@@ -17,6 +17,7 @@ echo ""
      echo "\033[33;1m""    (03)PHD"
      echo "\033[32;1m""    (04)TOKOPEDIA" 
      echo "\033[33;1m""    (05)Lazada "
+     echo "\033[33;1m""    (06)KFC"
      echo "\033[34;1m""    (00)INFO "
      echo "\033[34;1m""    (99)Keluar "
 echo "\033[33;1m"" pilih SALAH SATU"
@@ -60,6 +61,13 @@ clear
 python2 lazada.py
 sh MR.sh
 fi
+
+if [ $ezz = 06 ] || [ $ezz = 6 ]
+then 
+clear
+php kfc.php
+sh MR.sh
+fi 
 
 if [ $ezz = 00 ] || [ $ezz = 0 ]
 then
